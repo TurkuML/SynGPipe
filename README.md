@@ -47,7 +47,7 @@ git clone https://github.com/TurkuML/SynGPipe.git
 
 ### 3. Move into the cloned repository folder
 ```bash
-cd syngpipe
+cd SynGPipe
 ```
 
 ### 4. Setup the environment
@@ -200,7 +200,7 @@ This dataset is provided **only as a demonstration dataset**. It is intended to:
 
 ## Documentation
 
-For detailed documentation on SynGPipe visit the **[SynGPipe Wiki](https://)**.
+For detailed documentation on SynGPipe visit the **[SynGPipe Wiki](https://github.com/TurkuML/SynGPipe/wiki)**.
 
 ## License
 
