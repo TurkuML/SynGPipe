@@ -42,7 +42,7 @@ conda install git
 
 ### 2. Clone the repository
 ```bash
-git clone https://
+git clone https://github.com/TurkuML/SynGPipe.git
 ```
 
 ### 3. Move into the cloned repository folder
